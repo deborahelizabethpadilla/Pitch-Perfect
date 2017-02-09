@@ -11,6 +11,7 @@ This application was created specifically for Udacity's iOS Developer Nanodegree
 * Stack Views
 * Auto Layout
 * UIKit
+* Swift
 
 **Closing:**
 
