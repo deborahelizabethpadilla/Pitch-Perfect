@@ -1,4 +1,4 @@
-# Pitch-Perfect
+# Pitch Perfect
 
 **Summary:**
 
