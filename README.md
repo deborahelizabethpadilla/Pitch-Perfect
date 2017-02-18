@@ -2,7 +2,7 @@
 
 **Summary:**
 
-This application was created specifically for Udacity's iOS Developer Nanodegree. This project firmed up my knowledge on creating an application that implements AVFoundation, allowing user to record messages in different effects.
+This application was created specifically for [Udacity's iOS Developer Nanodegree](https://www.udacity.com). This project firmed up my knowledge on creating an application that implements AVFoundation, allowing user to record messages in different effects.
 
 **The application offers the following features:**
 
