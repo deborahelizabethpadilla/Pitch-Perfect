@@ -24,3 +24,6 @@ This application was created specifically for [Udacity's iOS Developer Nanodegre
 **Closing:**
 
 In conclusion, I have learned a lot by working on this project. I am confident that I mastered AVFoundation and am able to successfully create applications using different scenes, functions and assets in order to create an exciting application. 
+
+
+![pp1](https://cloud.githubusercontent.com/assets/20284373/23473726/3ad2037a-fe7f-11e6-9dcf-9e236517e5ae.png) ![pp2](https://cloud.githubusercontent.com/assets/20284373/23473727/3ad2d458-fe7f-11e6-84bf-549d68b0a8ab.png) ![pp3](https://cloud.githubusercontent.com/assets/20284373/23473728/3ad2c6d4-fe7f-11e6-8088-a10d6958200d.png)
